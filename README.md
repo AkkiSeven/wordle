@@ -1,4 +1,4 @@
-# Wordle Clone
+# Wordle Game in Python
 
 A fun command-line implementation of the popular Wordle game, built with Python.
 
