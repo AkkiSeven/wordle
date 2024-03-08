@@ -25,4 +25,4 @@ A fun command-line implementation of the popular Wordle game, built with Python.
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/AkkiSeven/wordle.git](https://github.com/AkkiSeven/wordle.git)
+   git clone https://github.com/AkkiSeven/wordle.git
